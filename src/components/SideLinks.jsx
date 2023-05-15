@@ -17,7 +17,7 @@ const Sidelinks = () => {
   return (
     <React.Fragment>
       <button
-        className="animate-ping z-40 fixed top-32 right-5 inline-flex items-center justify-center lg:hidden 
+        className="z-40 fixed top-32 right-5 inline-flex items-center justify-center lg:hidden 
             float-right shadow-xl h-10 w-10 rounded-full  bg-gray-900"
             onClick={handleClose}
       >
